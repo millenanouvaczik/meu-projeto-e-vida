@@ -58,4 +58,3 @@ function comecaCronometro(){
 }
 
 comecaCronometro();
-
